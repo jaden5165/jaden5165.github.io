@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+body {
+  background: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.circular-bar {
+  text-align: center;
+}
+.circular-bar .circular-bar-content {
+  margin-bottom: 70px;
+  margin-top: -95px;
+  text-align: center;
+}
+.circular-bar .circular-bar-content strong {
+  display: block;
+  font-weight: 600;
+  font-size: 20px;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  line-height: 24px;
+}
+.circular-bar .circular-bar-content label {
+  display: block;
+  font-weight: 300;
+  font-size: 25px;
+  font-size: 2rem;
+  line-height: 1.25rem;
+  line-height: 20px;
+}
